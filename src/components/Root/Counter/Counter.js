@@ -11,7 +11,7 @@ const Button = styled.button`
   font-size: 1.25rem;
   margin: 0 0.5rem;
   outline: none;
-  padding: 0.5em 1em;
+  padding: 0.5em 1.1em;
   user-select: none;
 
   &:hover {
